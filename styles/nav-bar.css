@@ -1,5 +1,11 @@
 #nav-bar-container {
-  background-color: #CCC;
+  background-color: #f4f4f4;
   padding: 14rem 0 11rem 0;
   width: 100vw;
+}
+
+nav {
+  background-color: #212121;
+  height: 50px;
+  width: 100%;
 }
